@@ -12,7 +12,8 @@ FetchContent_MakeAvailable(SFML)
 
 add_executable(CMakeSFMLProject "Source Files/main.cpp"
         "Source Files/CustomShape.cpp"
-        "Header Files/CustomShape.hpp")
+        "Header Files/CustomShape.hpp"
+        "Source Files/main.cpp")
 target_link_libraries(CMakeSFMLProject PRIVATE sfml-graphics)
 target_compile_features(CMakeSFMLProject PRIVATE cxx_std_17)
 
