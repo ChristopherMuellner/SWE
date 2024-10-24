@@ -1,0 +1,3 @@
+C:/Users/chris/OneDrive - HTL Hollabrunn/Projects/Software/HTL/cmake-build-debug/CMakeFiles/TimeSpan.dir
+C:/Users/chris/OneDrive - HTL Hollabrunn/Projects/Software/HTL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chris/OneDrive - HTL Hollabrunn/Projects/Software/HTL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
