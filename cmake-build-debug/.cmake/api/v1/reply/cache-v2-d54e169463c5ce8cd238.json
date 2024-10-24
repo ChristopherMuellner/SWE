@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/chris/Projects/Software/FilesC/cmake-build-debug"
+			"value" : "c:/Users/chris/OneDrive - HTL Hollabrunn/Projects/Software/HTL/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/chris/Projects/Software/FilesC/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/chris/OneDrive - HTL Hollabrunn/Projects/Software/HTL/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/chris/Projects/Software/FilesC"
+			"value" : "C:/Users/chris/OneDrive - HTL Hollabrunn/Projects/Software/HTL"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1135,7 +1135,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/chris/Projects/Software/FilesC/cmake-build-debug"
+			"value" : "C:/Users/chris/OneDrive - HTL Hollabrunn/Projects/Software/HTL/cmake-build-debug"
 		},
 		{
 			"name" : "FilesC_IS_TOP_LEVEL",
@@ -1159,7 +1159,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/chris/Projects/Software/FilesC"
+			"value" : "C:/Users/chris/OneDrive - HTL Hollabrunn/Projects/Software/HTL"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
