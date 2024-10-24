@@ -1,0 +1,21 @@
+# ninja log v5
+1	99	7351304255270423	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	b659fdbf110b636d
+1	99	7351304255270423	C:/Users/Censatu/Projects/Software/2ahel-202324-fsst-simpleandfastmultimedialibrary/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	b659fdbf110b636d
+100	33672	7351304590995242	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	5972235d09bf039e
+100	33672	7351304590995242	C:/Users/Censatu/Projects/Software/2ahel-202324-fsst-simpleandfastmultimedialibrary/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	5972235d09bf039e
+33672	36058	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	9e1ae772874ad3fe
+33672	36058	0	C:/Users/Censatu/Projects/Software/2ahel-202324-fsst-simpleandfastmultimedialibrary/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	9e1ae772874ad3fe
+36058	36149	7351304615783947	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	b6dcfc62f6960eac
+36058	36149	7351304615783947	C:/Users/Censatu/Projects/Software/2ahel-202324-fsst-simpleandfastmultimedialibrary/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	b6dcfc62f6960eac
+36149	36238	7351304616672151	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	51f9dd4251980a4f
+36149	36238	7351304616672151	C:/Users/Censatu/Projects/Software/2ahel-202324-fsst-simpleandfastmultimedialibrary/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	51f9dd4251980a4f
+36239	36329	7351304617567427	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	a2145d279586b3cd
+36239	36329	7351304617567427	C:/Users/Censatu/Projects/Software/2ahel-202324-fsst-simpleandfastmultimedialibrary/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	a2145d279586b3cd
+36329	36419	7351304618468990	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	a0392adfd79434e5
+36329	36419	7351304618468990	C:/Users/Censatu/Projects/Software/2ahel-202324-fsst-simpleandfastmultimedialibrary/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	a0392adfd79434e5
+36419	36518	7351304619443161	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	9628883fd3446c7d
+36419	36518	7351304619443161	C:/Users/Censatu/Projects/Software/2ahel-202324-fsst-simpleandfastmultimedialibrary/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	9628883fd3446c7d
+36519	36648	7351304620766183	CMakeFiles/sfml-populate-complete	c9a5732f4ace112
+36519	36648	7351304620766183	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	c9a5732f4ace112
+36519	36648	7351304620766183	C:/Users/Censatu/Projects/Software/2ahel-202324-fsst-simpleandfastmultimedialibrary/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	c9a5732f4ace112
+36519	36648	7351304620766183	C:/Users/Censatu/Projects/Software/2ahel-202324-fsst-simpleandfastmultimedialibrary/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	c9a5732f4ace112
