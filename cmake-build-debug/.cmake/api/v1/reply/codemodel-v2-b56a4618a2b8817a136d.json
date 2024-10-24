@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Censatu/Projects/Software/stringFunctions/cmake-build-debug",
-		"source" : "C:/Users/Censatu/Projects/Software/stringFunctions"
+		"build" : "C:/Users/chris/OneDrive - HTL Hollabrunn/Projects/Software/HTL/cmake-build-debug",
+		"source" : "C:/Users/chris/OneDrive - HTL Hollabrunn/Projects/Software/HTL"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 6
+		"minor" : 7
 	}
 }
